@@ -63,3 +63,17 @@ We evaluated generated images against ground truth using:
   - Stronger EEG feature extraction pipelines  
 
 ---
+
+## 📜 License
+
+This repository is distributed under No License.
+This means we retain all rights and others cannot legally copy, modify, or use the work without our explicit permission.
+
+
+---
+
+## 👩‍💻 Authors
+
+Sanjana Deshpande – AI Researcher, Montreal
+
+Zhanna Latypova – Collaborator, LaSalle College Montreal 
